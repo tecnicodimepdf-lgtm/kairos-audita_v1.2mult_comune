@@ -1,0 +1,20 @@
+{
+  "empresas": [
+    {
+      "id": "emp_demo_1",
+      "cnpj": "12.345.678/0001-99",
+      "razaoSocial": "Dimep Auditoria Matriz S.A.",
+      "nomeFantasia": "Auditoria Matriz (Demo)"
+    },
+    {
+      "id": "emp_demo_2",
+      "cnpj": "12.345.678/0002-88",
+      "razaoSocial": "Dimep CD Extrema Logística Ltda",
+      "nomeFantasia": "CD Extrema (Demo)"
+    }
+  ],
+  "funcionarios": [],
+  "marcacoes": [],
+  "jornadas": [],
+  "ocorrencias": []
+}

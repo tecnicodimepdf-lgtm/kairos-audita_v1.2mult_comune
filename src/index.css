@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+@import "tailwindcss";
+
+@variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Space Grotesk", sans-serif;
+  --font-mono: "JetBrains Mono", monospace;
+  
+  --color-brand-primary: #064e3b; /* Emerald 900 - Dark Green */
+  --color-brand-secondary: #065f46; /* Emerald 800 */
+  --color-accent-blue: #059669; /* Emerald 600 - Green institutional detail */
+  --color-accent-teal: #0d9488; /* Teal 600 */
+  --color-accent-orange: #ea580c; /* Orange 600 */
+  --color-accent-red: #dc2626; /* Red 600 */
+}
+
+/* Custom global styles for scrollbars and clean corporate feel */
+body {
+  font-family: var(--font-sans);
+  background-color: #f8fafc; /* Slate 50 */
+  color: #0f172a; /* Strong, high-contrast Slate 900 */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Base styles for Dark Theme */
+html.dark body {
+  background-color: #090d16; /* Sophisticated slate dark */
+  color: #f8fafc;
+}
+
+html.dark {
+  color-scheme: dark;
+}
+
+/* Custom modern scrollbar styling */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+
+/* Custom modern fade-in transition */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(4px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.35s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+/* Restauração integral das animações e feedback visual interativo dos botões */
+button,
+[role="button"],
+.btn-animated {
+  transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+button:hover:not(:disabled),
+[role="button"]:hover:not(:disabled) {
+  filter: brightness(1.06);
+}
+
+button:active:not(:disabled),
+[role="button"]:active:not(:disabled) {
+  transform: scale(0.98);
+  filter: brightness(0.96);
+}
+
+/* Print CSS to make reports look beautiful when printed as PDF */
+@media print {
+  html, body, #app-container, main, #relatorios-root, .print-card, #funcionarios-module, #auditorias-root {
+    height: auto !important;
+    min-height: auto !important;
+    max-height: none !important;
+    overflow: visible !important;
+    position: static !important;
+  }
+  
+  .no-print {
+    display: none !important;
+  }
+  
+  .print-only {
+    display: block !important;
+  }
+  
+  body {
+    background-color: white !important;
+    color: black !important;
+  }
+  
+  .print-card {
+    border: none !important;
+    box-shadow: none !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  /* Prevent page cuts inside tables and table rows */
+  tr {
+    page-break-inside: avoid !important;
+  }
+  
+  thead {
+    display: table-header-group !important;
+  }
+}
+
+/* High contrast and readability enhancements in light theme (no low-contrast grays) */
+html:not(.dark) body {
+  color: #0f172a !important; /* Deep Slate (almost black) */
+}
+
+html:not(.dark) .text-slate-400,
+html:not(.dark) .text-slate-500,
+html:not(.dark) .text-slate-600,
+html:not(.dark) .text-gray-400,
+html:not(.dark) .text-gray-500,
+html:not(.dark) .text-gray-600 {
+  color: #334155 !important; /* Slate 700 for extremely clear contrast */
+}
+
+html:not(.dark) .text-slate-300,
+html:not(.dark) .text-gray-300 {
+  color: #475569 !important; /* Slate 600 */
+}
+
+html:not(.dark) td,
+html:not(.dark) th,
+html:not(.dark) p,
+html:not(.dark) span {
+  --tw-text-opacity: 1 !important;
+}
+

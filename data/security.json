@@ -1,0 +1,212 @@
+{
+  "EmergencyAccess": false,
+  "LastEmergencyActivation": "2026-08-23T23:31:38.193Z",
+  "LastActivatedByIP": "127.0.0.1",
+  "Reason": "Teste de Falha de Autenticação",
+  "EmergencyLog": [
+    {
+      "dataHora": "2026-08-23T23:31:38.397Z",
+      "acao": "Ação Concluída: create_master",
+      "ip": "127.0.0.1",
+      "detalhes": "Usuário Master (tecnicodimepdf@gmail.com) recriado/redefinido com sucesso via Modo de Emergência!"
+    },
+    {
+      "dataHora": "2026-08-23T23:31:38.193Z",
+      "acao": "Ativação do Modo de Emergência (Break Glass)",
+      "ip": "127.0.0.1",
+      "detalhes": "Motivo: Teste de Falha de Autenticação"
+    },
+    {
+      "dataHora": "2026-08-23T23:05:43.240Z",
+      "acao": "Ação Concluída: create_master",
+      "ip": "127.0.0.1",
+      "detalhes": "Usuário Master (tecnicodimepdf@gmail.com) recriado/redefinido com sucesso via Modo de Emergência!"
+    },
+    {
+      "dataHora": "2026-08-23T23:05:43.129Z",
+      "acao": "Ativação do Modo de Emergência (Break Glass)",
+      "ip": "127.0.0.1",
+      "detalhes": "Motivo: Teste de Falha de Autenticação"
+    },
+    {
+      "dataHora": "2026-08-23T22:14:09.667Z",
+      "acao": "Ação Concluída: create_master",
+      "ip": "127.0.0.1",
+      "detalhes": "Usuário Master (tecnicodimepdf@gmail.com) recriado/redefinido com sucesso via Modo de Emergência!"
+    },
+    {
+      "dataHora": "2026-08-23T22:14:09.557Z",
+      "acao": "Ativação do Modo de Emergência (Break Glass)",
+      "ip": "127.0.0.1",
+      "detalhes": "Motivo: Teste de Falha de Autenticação"
+    },
+    {
+      "dataHora": "2026-08-23T22:13:08.086Z",
+      "acao": "Ação Concluída: create_master",
+      "ip": "127.0.0.1",
+      "detalhes": "Usuário Master (tecnicodimepdf@gmail.com) recriado/redefinido com sucesso via Modo de Emergência!"
+    },
+    {
+      "dataHora": "2026-08-23T22:13:07.967Z",
+      "acao": "Ativação do Modo de Emergência (Break Glass)",
+      "ip": "127.0.0.1",
+      "detalhes": "Motivo: Teste de Falha de Autenticação"
+    },
+    {
+      "dataHora": "2026-07-24T20:45:20.745Z",
+      "acao": "Ação Concluída: create_master",
+      "ip": "127.0.0.1",
+      "detalhes": "Usuário Master (tecnicodimepdf@gmail.com) recriado/redefinido com sucesso via Modo de Emergência!"
+    },
+    {
+      "dataHora": "2026-07-24T20:45:19.994Z",
+      "acao": "Ativação do Modo de Emergência (Break Glass)",
+      "ip": "127.0.0.1",
+      "detalhes": "Motivo: Teste de Falha de Autenticação"
+    },
+    {
+      "dataHora": "2026-07-24T20:24:55.818Z",
+      "acao": "Ação Concluída: create_master",
+      "ip": "127.0.0.1",
+      "detalhes": "Usuário Master (tecnicodimepdf@gmail.com) recriado/redefinido com sucesso via Modo de Emergência!"
+    },
+    {
+      "dataHora": "2026-07-24T20:24:55.080Z",
+      "acao": "Ativação do Modo de Emergência (Break Glass)",
+      "ip": "127.0.0.1",
+      "detalhes": "Motivo: Teste de Falha de Autenticação"
+    },
+    {
+      "dataHora": "2026-07-24T20:17:57.907Z",
+      "acao": "Ação Concluída: create_master",
+      "ip": "127.0.0.1",
+      "detalhes": "Usuário Master (tecnicodimepdf@gmail.com) recriado/redefinido com sucesso via Modo de Emergência!"
+    },
+    {
+      "dataHora": "2026-07-24T20:15:29.013Z",
+      "acao": "Ação Concluída: create_master",
+      "ip": "127.0.0.1",
+      "detalhes": "Usuário Master (tecnicodimepdf@gmail.com) recriado/redefinido com sucesso via Modo de Emergência!"
+    },
+    {
+      "dataHora": "2026-07-24T20:15:28.243Z",
+      "acao": "Ativação do Modo de Emergência (Break Glass)",
+      "ip": "127.0.0.1",
+      "detalhes": "Motivo: Teste de Falha de Autenticação"
+    },
+    {
+      "dataHora": "2026-07-24T19:58:25.973Z",
+      "acao": "Ação Concluída: create_master",
+      "ip": "127.0.0.1",
+      "detalhes": "Usuário Master (tecnicodimepdf@gmail.com) recriado/redefinido com sucesso via Modo de Emergência!"
+    },
+    {
+      "dataHora": "2026-07-24T19:37:47.792Z",
+      "acao": "Ação Concluída: create_master",
+      "ip": "127.0.0.1",
+      "detalhes": "Usuário Master (tecnicodimepdf@gmail.com) recriado/redefinido com sucesso via Modo de Emergência!"
+    },
+    {
+      "dataHora": "2026-07-24T19:37:47.072Z",
+      "acao": "Ativação do Modo de Emergência (Break Glass)",
+      "ip": "127.0.0.1",
+      "detalhes": "Motivo: Teste de Falha de Autenticação"
+    },
+    {
+      "dataHora": "2026-07-24T18:40:21.071Z",
+      "acao": "Ação Concluída: create_master",
+      "ip": "127.0.0.1",
+      "detalhes": "Usuário Master (tecnicodimepdf@gmail.com) recriado/redefinido com sucesso via Modo de Emergência!"
+    },
+    {
+      "dataHora": "2026-07-24T18:38:55.916Z",
+      "acao": "Ação Concluída: create_master",
+      "ip": "127.0.0.1",
+      "detalhes": "Usuário Master (tecnicodimepdf@gmail.com) recriado/redefinido com sucesso via Modo de Emergência!"
+    },
+    {
+      "dataHora": "2026-07-24T18:38:55.161Z",
+      "acao": "Ativação do Modo de Emergência (Break Glass)",
+      "ip": "127.0.0.1",
+      "detalhes": "Motivo: Teste de Falha de Autenticação"
+    },
+    {
+      "dataHora": "2026-07-24T18:31:25.163Z",
+      "acao": "Ação Concluída: create_master",
+      "ip": "127.0.0.1",
+      "detalhes": "Usuário Master (tecnicodimepdf@gmail.com) recriado/redefinido com sucesso via Modo de Emergência!"
+    },
+    {
+      "dataHora": "2026-07-24T18:31:24.394Z",
+      "acao": "Ativação do Modo de Emergência (Break Glass)",
+      "ip": "127.0.0.1",
+      "detalhes": "Motivo: Teste de Falha de Autenticação"
+    },
+    {
+      "dataHora": "2026-07-24T18:29:36.546Z",
+      "acao": "Ação Concluída: unlock_users",
+      "ip": "127.0.0.1",
+      "detalhes": "Desbloqueio efetuado para 0 usuário(s) no sistema."
+    },
+    {
+      "dataHora": "2026-07-24T18:21:51.060Z",
+      "acao": "Ação Concluída: create_master",
+      "ip": "127.0.0.1",
+      "detalhes": "Usuário Master (tecnicodimepdf@gmail.com) recriado/redefinido com sucesso via Modo de Emergência!"
+    },
+    {
+      "dataHora": "2026-07-24T18:21:50.352Z",
+      "acao": "Ativação do Modo de Emergência (Break Glass)",
+      "ip": "127.0.0.1",
+      "detalhes": "Motivo: Teste de Falha de Autenticação"
+    },
+    {
+      "dataHora": "2026-07-24T18:21:32.594Z",
+      "acao": "Ação Concluída: create_master",
+      "ip": "127.0.0.1",
+      "detalhes": "Usuário Master (tecnicodimepdf@gmail.com) recriado/redefinido com sucesso via Modo de Emergência!"
+    },
+    {
+      "dataHora": "2026-07-24T18:21:31.926Z",
+      "acao": "Ativação do Modo de Emergência (Break Glass)",
+      "ip": "127.0.0.1",
+      "detalhes": "Motivo: Teste de Falha de Autenticação"
+    },
+    {
+      "dataHora": "2026-07-24T16:18:55.583Z",
+      "acao": "Ação Concluída: create_master",
+      "ip": "127.0.0.1",
+      "detalhes": "Usuário Master (tecnicodimepdf@gmail.com) recriado/redefinido com sucesso via Modo de Emergência!"
+    },
+    {
+      "dataHora": "2026-07-24T16:18:54.712Z",
+      "acao": "Ativação do Modo de Emergência (Break Glass)",
+      "ip": "127.0.0.1",
+      "detalhes": "Motivo: Teste de Falha de Autenticação"
+    },
+    {
+      "dataHora": "2026-07-24T11:47:21.685Z",
+      "acao": "Ação Concluída: create_master",
+      "ip": "127.0.0.1",
+      "detalhes": "Usuário Master (tecnicodimepdf@gmail.com) recriado/redefinido com sucesso via Modo de Emergência!"
+    },
+    {
+      "dataHora": "2026-07-24T11:47:21.473Z",
+      "acao": "Ativação do Modo de Emergência (Break Glass)",
+      "ip": "127.0.0.1",
+      "detalhes": "Motivo: Teste de Falha de Autenticação"
+    },
+    {
+      "dataHora": "2026-07-24T11:44:30.530Z",
+      "acao": "Ação Concluída: create_master",
+      "ip": "127.0.0.1",
+      "detalhes": "Usuário Master (tecnicodimepdf@gmail.com) recriado/redefinido com sucesso via Modo de Emergência!"
+    },
+    {
+      "dataHora": "2026-07-24T11:44:30.314Z",
+      "acao": "Ativação do Modo de Emergência (Break Glass)",
+      "ip": "127.0.0.1",
+      "detalhes": "Motivo: Teste de Falha de Autenticação"
+    }
+  ]
+}

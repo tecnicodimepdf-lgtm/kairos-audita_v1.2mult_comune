@@ -1,0 +1,289 @@
+# Logs limpos pelo usuário em 23/08/2026, 09:53:22
+23/08/2026, 09:53:22
+INFO
+Operação: Limpeza de Logs
+Detalhes: O arquivo de logs de utilização e histórico de auditoria foram limpos pelo painel.
+# Comentário técnico: Logs anteriores de acessos e operações foram reiniciados.
+------------------------------------------------------------
+23/08/2026, 09:53:32
+SUCESSO
+Operação: Remoção de Base de Exemplo
+Detalhes: Base de exemplo removida com sucesso. Aplicação alterada para Modo REAL.
+# Comentário técnico: Usuário: tecnicodimepdf@gmail.com | IP: 127.0.0.1
+------------------------------------------------------------
+23/08/2026, 09:53:32
+SUCESSO
+Operação: Remoção de Base de Exemplo
+Detalhes: Mecanismo de remoção da base de exemplo acionado pelo usuário.
+# Comentário técnico: Todos os dados simulados foram excluídos de db.json. Aplicação definida exclusivamente para Modo REAL.
+------------------------------------------------------------
+23/08/2026, 20:20:36
+SUCESSO
+Operação: Inicialização
+Detalhes: O servidor Dimep Cloud foi iniciado. 0 sessões recuperadas da base persistente.
+# Comentário técnico: Usuário: Sistema | IP: 127.0.0.1
+------------------------------------------------------------
+23/08/2026, 20:21:17
+FALHA
+Operação: Falha de Autenticação
+Detalhes: Senha incorreta para o usuário: tecnicodimepdf@gmail.com. Tentativas: 0/5
+# Comentário técnico: Usuário: Sistema | IP: 127.0.0.1
+------------------------------------------------------------
+23/08/2026, 20:21:27
+FALHA
+Operação: Falha de Autenticação
+Detalhes: Senha incorreta para o usuário: tecnicodimepdf@gmail.com. Tentativas: 0/5
+# Comentário técnico: Usuário: Sistema | IP: 127.0.0.1
+------------------------------------------------------------
+23/08/2026, 20:21:30
+FALHA
+Operação: Falha de Autenticação
+Detalhes: Senha incorreta para o usuário: tecnicodimepdf@gmail.com. Tentativas: 0/5
+# Comentário técnico: Usuário: Sistema | IP: 127.0.0.1
+------------------------------------------------------------
+23/08/2026, 20:21:39
+FALHA
+Operação: Falha de Autenticação
+Detalhes: Senha incorreta para o usuário: tecnicodimepdf@gmail.com. Tentativas: 0/5
+# Comentário técnico: Usuário: Sistema | IP: 127.0.0.1
+------------------------------------------------------------
+23/08/2026, 20:21:47
+FALHA
+Operação: Falha de Autenticação
+Detalhes: Senha incorreta para o usuário: tecnicodimepdf@gmail.com. Tentativas: 0/5
+# Comentário técnico: Usuário: Sistema | IP: 127.0.0.1
+------------------------------------------------------------
+23/08/2026, 20:21:51
+FALHA
+Operação: Falha de Autenticação
+Detalhes: Senha incorreta para o usuário: tecnicodimepdf@gmail.com. Tentativas: 0/5
+# Comentário técnico: Usuário: Sistema | IP: 127.0.0.1
+------------------------------------------------------------
+23/08/2026, 20:24:12
+FALHA
+Operação: Falha de Autenticação
+Detalhes: Senha incorreta para o usuário: tecnicodimepdf@gmail.com. Tentativas: 0/5
+# Comentário técnico: Usuário: Sistema | IP: 127.0.0.1
+------------------------------------------------------------
+23/08/2026, 20:24:13
+FALHA
+Operação: Falha de Autenticação
+Detalhes: Senha incorreta para o usuário: tecnicodimepdf@gmail.com. Tentativas: 0/5
+# Comentário técnico: Usuário: Sistema | IP: 127.0.0.1
+------------------------------------------------------------
+23/08/2026, 20:25:07
+FALHA
+Operação: Falha de Autenticação
+Detalhes: Senha incorreta para o usuário: tecnicodimepdf@gmail.com. Tentativas: 0/5
+# Comentário técnico: Usuário: Sistema | IP: 127.0.0.1
+------------------------------------------------------------
+23/08/2026, 20:29:05
+FALHA
+Operação: Falha de Autenticação
+Detalhes: Senha incorreta para o usuário: tecnicodimepdf@gmail.com. Tentativas: 0/5
+# Comentário técnico: Usuário: Sistema | IP: 127.0.0.1
+------------------------------------------------------------
+23/08/2026, 20:33:42
+SUCESSO
+Operação: Inicialização
+Detalhes: O servidor Dimep Cloud foi iniciado. 0 sessões recuperadas da base persistente.
+# Comentário técnico: Usuário: Sistema | IP: 127.0.0.1
+------------------------------------------------------------
+23/08/2026, 20:33:58
+FALHA
+Operação: Falha de Autenticação
+Detalhes: Senha incorreta para o usuário: tecnicodimepdf@gmail.com. Tentativas: 0/5
+# Comentário técnico: Usuário: Sistema | IP: 127.0.0.1
+------------------------------------------------------------
+23/08/2026, 20:34:03
+FALHA
+Operação: Falha de Autenticação
+Detalhes: Senha incorreta para o usuário: tecnicodimepdf@gmail.com. Tentativas: 0/5
+# Comentário técnico: Usuário: Sistema | IP: 127.0.0.1
+------------------------------------------------------------
+23/08/2026, 20:34:09
+FALHA
+Operação: Falha de Autenticação
+Detalhes: Senha incorreta para o usuário: tecnicodimepdf@gmail.com. Tentativas: 0/5
+# Comentário técnico: Usuário: Sistema | IP: 127.0.0.1
+------------------------------------------------------------
+23/08/2026, 20:34:16
+FALHA
+Operação: Falha de Autenticação
+Detalhes: Senha incorreta para o usuário: tecnicodimepdf@gmail.com. Tentativas: 0/5
+# Comentário técnico: Usuário: Sistema | IP: 127.0.0.1
+------------------------------------------------------------
+23/08/2026, 20:37:12
+SUCESSO
+Operação: Inicialização
+Detalhes: O servidor Dimep Cloud foi iniciado. 0 sessões recuperadas da base persistente.
+# Comentário técnico: Usuário: Sistema | IP: 127.0.0.1
+------------------------------------------------------------
+23/08/2026, 20:37:29
+FALHA
+Operação: Falha de Autenticação
+Detalhes: Senha incorreta para o usuário: tecnicodimepdf@gmail.com. Tentativas: 0/5
+# Comentário técnico: Usuário: Sistema | IP: 127.0.0.1
+------------------------------------------------------------
+23/08/2026, 20:37:33
+FALHA
+Operação: Falha de Autenticação
+Detalhes: Senha incorreta para o usuário: tecnicodimepdf@gmail.com. Tentativas: 0/5
+# Comentário técnico: Usuário: Sistema | IP: 127.0.0.1
+------------------------------------------------------------
+23/08/2026, 20:41:27
+FALHA
+Operação: Falha de Autenticação
+Detalhes: Senha incorreta para o usuário: tecnicodimepdf@gmail.com. Tentativas: 0/5
+# Comentário técnico: Usuário: Sistema | IP: 127.0.0.1
+------------------------------------------------------------
+23/08/2026, 20:41:29
+FALHA
+Operação: Falha de Autenticação
+Detalhes: Senha incorreta para o usuário: tecnicodimepdf@gmail.com. Tentativas: 0/5
+# Comentário técnico: Usuário: Sistema | IP: 127.0.0.1
+------------------------------------------------------------
+23/08/2026, 20:41:37
+FALHA
+Operação: Falha de Autenticação
+Detalhes: Senha incorreta para o usuário: tecnicodimepdf@gmail.com. Tentativas: 0/5
+# Comentário técnico: Usuário: Sistema | IP: 127.0.0.1
+------------------------------------------------------------
+23/08/2026, 20:41:42
+FALHA
+Operação: Falha de Autenticação
+Detalhes: Senha incorreta para o usuário: tecnicodimepdf@gmail.com. Tentativas: 0/5
+# Comentário técnico: Usuário: Sistema | IP: 127.0.0.1
+------------------------------------------------------------
+23/08/2026, 20:42:58
+FALHA
+Operação: Falha de Autenticação
+Detalhes: Senha incorreta para o usuário: tecnicodimepdf@gmail.com. Tentativas: 0/5
+# Comentário técnico: Usuário: Sistema | IP: 127.0.0.1
+------------------------------------------------------------
+23/08/2026, 20:43:03
+FALHA
+Operação: Falha de Autenticação
+Detalhes: Senha incorreta para o usuário: tecnicodimepdf@gmail.com. Tentativas: 0/5
+# Comentário técnico: Usuário: Sistema | IP: 127.0.0.1
+------------------------------------------------------------
+23/08/2026, 20:43:07
+FALHA
+Operação: Falha de Autenticação
+Detalhes: Senha incorreta para o usuário: tecnicodimepdf@gmail.com. Tentativas: 0/5
+# Comentário técnico: Usuário: Sistema | IP: 127.0.0.1
+------------------------------------------------------------
+23/08/2026, 20:44:25
+SUCESSO
+Operação: Inicialização
+Detalhes: O servidor Dimep Cloud foi iniciado. 0 sessões recuperadas da base persistente.
+# Comentário técnico: Usuário: Sistema | IP: 127.0.0.1
+------------------------------------------------------------
+23/08/2026, 20:44:35
+FALHA
+Operação: Falha de Autenticação
+Detalhes: Senha incorreta para o usuário: tecnicodimepdf@gmail.com. Tentativas: 0/5
+# Comentário técnico: Usuário: Sistema | IP: 127.0.0.1
+------------------------------------------------------------
+23/08/2026, 20:44:40
+FALHA
+Operação: Falha de Autenticação
+Detalhes: Senha incorreta para o usuário: tecnicodimepdf@gmail.com. Tentativas: 0/5
+# Comentário técnico: Usuário: Sistema | IP: 127.0.0.1
+------------------------------------------------------------
+23/08/2026, 20:44:43
+FALHA
+Operação: Falha de Autenticação
+Detalhes: Senha incorreta para o usuário: tecnicodimepdf@gmail.com. Tentativas: 0/5
+# Comentário técnico: Usuário: Sistema | IP: 127.0.0.1
+------------------------------------------------------------
+23/08/2026, 20:56:58
+SUCESSO
+Operação: Inicialização
+Detalhes: O servidor Dimep Cloud foi iniciado. 0 sessões recuperadas da base persistente.
+# Comentário técnico: Usuário: Sistema | IP: 127.0.0.1
+------------------------------------------------------------
+23/08/2026, 20:57:10
+SUCESSO
+Operação: Login
+Detalhes: Usuário logado com sucesso: tecnicodimepdf@gmail.com
+# Comentário técnico: Usuário: Sistema | IP: 127.0.0.1
+------------------------------------------------------------
+23/08/2026, 20:57:25
+SUCESSO
+Operação: Troca de Senha Obrigatória
+Detalhes: Troca de senha inicial realizada com sucesso para o Usuário Master (tecnicodimepdf@gmail.com). Acesso liberado à aplicação. IP: 127.0.0.1
+# Comentário técnico: Usuário: tecnicodimepdf@gmail.com | IP: 127.0.0.1
+------------------------------------------------------------
+23/08/2026, 20:58:05
+SUCESSO
+Operação: Multiempresa
+Detalhes: Atualizada empresa "RED COMERCIAL DE CALÇADOS" na integração REST.
+# Comentário técnico: Usuário: tecnicodimepdf@gmail.com | IP: 127.0.0.1
+------------------------------------------------------------
+23/08/2026, 20:58:05
+SUCESSO
+Operação: Gestão Multiempresa
+Detalhes: Empresa RED COMERCIAL DE CALÇADOS (CNPJ: 10.722.889/0001-74) atualizada com sucesso.
+# Comentário técnico: Realizado por tecnicodimepdf@gmail.com.
+------------------------------------------------------------
+23/08/2026, 20:58:09
+SUCESSO
+Operação: Configurações
+Detalhes: Configurações da integração REST salvas com sucesso: CNPJ 10.722.889/0001-74
+# Comentário técnico: Usuário: tecnicodimepdf@gmail.com | IP: 127.0.0.1
+------------------------------------------------------------
+23/08/2026, 20:58:09
+SUCESSO
+Operação: Salvar Configurações
+Detalhes: Configurações de conexão REST salvas com sucesso no sistema. CNPJ/Identificador: 10.722.889/0001-74
+# Comentário técnico: Salvo por tecnicodimepdf@gmail.com.
+------------------------------------------------------------
+23/08/2026, 20:58:09
+INICIO
+Operação: Sincronização
+Detalhes: Iniciando sincronização real dos dados com CNPJ/CPF 10.722.889/0001-74
+# Comentário técnico: A sincronização irá limpar a base demo, carregar os colaboradores ativos e importar as marcações dos últimos 30 dias.
+------------------------------------------------------------
+23/08/2026, 20:58:46
+SUCESSO
+Operação: Sincronização
+Detalhes: Sincronização concluída com sucesso para o CNPJ/CPF 10.722.889/0001-74. PERÍODO: 32 dias (2026-07-22 a 2026-08-23). TOTAL DE PESSOAS: 4837. TOTAL DE MARCAÇÕES: 53019.
+# Comentário técnico: Todos os colaboradores e marcações de ponto coletados foram analisados e processados pelo motor de auditoria trabalhista CLT/MTE.
+------------------------------------------------------------
+23/08/2026, 20:58:49
+SUCESSO
+Operação: Sincronização
+Detalhes: Sincronização bem-sucedida com CNPJ 10.722.889/0001-74. 53019 registros coletados.
+# Comentário técnico: Usuário: tecnicodimepdf@gmail.com | IP: 127.0.0.1
+------------------------------------------------------------
+25/08/2026, 10:07:11
+SUCESSO
+Operação: Inicialização
+Detalhes: O servidor Dimep Cloud foi iniciado. 1 sessões recuperadas da base persistente.
+# Comentário técnico: Usuário: Sistema | IP: 127.0.0.1
+------------------------------------------------------------
+25/08/2026, 10:08:12
+SUCESSO
+Operação: Login
+Detalhes: Usuário logado com sucesso: tecnicodimepdf@gmail.com
+# Comentário técnico: Usuário: Sistema | IP: 127.0.0.1
+------------------------------------------------------------
+25/08/2026, 11:49:27
+INICIO
+Operação: Sincronização
+Detalhes: Iniciando sincronização real dos dados com CNPJ/CPF 10.722.889/0001-74
+# Comentário técnico: A sincronização irá limpar a base demo, carregar os colaboradores ativos e importar as marcações dos últimos 30 dias.
+------------------------------------------------------------
+25/08/2026, 11:50:20
+SUCESSO
+Operação: Sincronização
+Detalhes: Sincronização concluída com sucesso para o CNPJ/CPF 10.722.889/0001-74. PERÍODO: 32 dias (2026-07-24 a 2026-08-25). TOTAL DE PESSOAS: 4837. TOTAL DE MARCAÇÕES: 51958.
+# Comentário técnico: Todos os colaboradores e marcações de ponto coletados foram analisados e processados pelo motor de auditoria trabalhista CLT/MTE.
+------------------------------------------------------------
+25/08/2026, 11:50:27
+SUCESSO
+Operação: Sincronização
+Detalhes: Sincronização bem-sucedida com CNPJ 10.722.889/0001-74. 51958 registros coletados.
+# Comentário técnico: Usuário: tecnicodimepdf@gmail.com | IP: 127.0.0.1
+------------------------------------------------------------

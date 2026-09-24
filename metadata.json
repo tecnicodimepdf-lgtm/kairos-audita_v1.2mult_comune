@@ -1,0 +1,8 @@
+{
+  "name": "Remix kairos-audita_v1.2mult_comune",
+  "description": "Plataforma de auditoria de jornadas e inteligência operacional integrada ao Dimep Kairos para identificação automática de riscos trabalhistas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
